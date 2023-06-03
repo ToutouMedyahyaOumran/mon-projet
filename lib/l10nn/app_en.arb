@@ -1,0 +1,19 @@
+{
+    "homePage": "Home Page",
+    "personalInformation": "Personal Information",
+    "name": "Name",
+    "profile": "profile",
+    "planning": "planning",
+    "notifications": "notifications",
+    "nameHint": "Enter your name",
+    "email": "Enter your email",
+    "dateOfBirth": "Date of Birth",
+    "requiredField": "Required Field",
+    "submitInfo": "Submit Info",
+    "aboutUs": "About Us",
+    "settings": "Settings",
+    "changeLanguage": "Change Language",
+    "logOut": " Log out",
+    "about": "Faster intervention,fewer losses"
+
+}

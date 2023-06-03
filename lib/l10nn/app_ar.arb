@@ -1,0 +1,19 @@
+{
+    "homePage": "الصفحة الرئيسية",
+    "personalInformation": "المعلومات الشخصية",
+    "name": "الإسم",
+    "profile": "الملف الشخصي",
+    "planning": "جدول المداومة",
+    "notifications": "الإشعارات",
+    "nameHint": "أدخل إسمك",
+    "email": "البريد الالكتروني",
+    "dateOfBirth": "تاريخ الميلاد",
+    "requiredField": "يتطلب حقلا",
+    "submitInfo": "إرسال المعلومات",
+    "aboutUs": "معلومات عنا",
+    "settings": "الإعدادات",
+    "changeLanguage": "تغيير اللغة",
+    "logOut": "الخروج",
+    "about": "تدخل أسرع، خسائر أقل" 
+
+}

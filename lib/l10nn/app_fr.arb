@@ -1,0 +1,19 @@
+{
+    "homePage": "Page Principale",
+    "personalInformation": "Informations Personelles",
+    "name": "Nom",
+    "profile": "profile",
+    "planning": "planning",
+    "notifications": "notifications",
+    "nameHint": "Saisir votre nom",
+    "email": "Saisir votre email",
+    "dateOfBirth": "Date de naissance",
+    "requiredField": "Champ requit",
+    "submitInfo": "Envoyer Informations",
+    "aboutUs": "À propos de nous",
+    "settings": "Paramétres",
+    "changeLanguage": "Changer Langues",
+    "logOut": "Déconnecter",
+    "about": "Une intervention plus rapide, moins de pertes"
+
+}
